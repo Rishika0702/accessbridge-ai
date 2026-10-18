@@ -1,6 +1,6 @@
 # AccessBridge AI
 
-AccessBridge AI helps people understand dense text, images, and PDFs through plain-language explanations, translation, and read-aloud output. Built for the **Sustainability & Social Impact** challenge track of AI Builder Cup 2026, with an accessibility use case.
+AccessBridge AI helps people understand dense text, images, and PDFs through plain-language explanations, translation, and read-aloud output. Built for the **Sustainability & Social Impact** challenge track of AI Builder Cup 2026. The [official theme](https://aibuildercup.com/themes.html) explicitly includes increasing accessibility as a social-impact direction.
 
 ## What works
 
